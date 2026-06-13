@@ -1,0 +1,6 @@
+Model,Accuracy,F1 (weighted),CV Mean,CV Std
+Naive Bayes,0.7611,0.7379,0.6928,0.0128
+SVM (Linear),0.7389,0.716,0.7304,0.0136
+Random Forest,0.7389,0.7121,0.7053,0.0255
+Gradient Boosting,0.6889,0.6714,0.6885,0.0252
+Logistic Regression,0.7056,0.6622,0.6801,0.0263

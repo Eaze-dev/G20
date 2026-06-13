@@ -1,0 +1,13 @@
+{
+  "total_tweets": 896,
+  "positive_pct": 55.9,
+  "negative_pct": 25.9,
+  "neutral_pct": 18.2,
+  "best_ml_model": "Naive Bayes",
+  "best_model_accuracy": 0.7611,
+  "best_model_f1": 0.7379,
+  "avg_engagement": 34032.4,
+  "top_location": "South Africa",
+  "date_first_tweet": "2024-12-01 06:38:37+00:00",
+  "date_last_tweet": "2025-11-29 22:52:08+00:00"
+}
